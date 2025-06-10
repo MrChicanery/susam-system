@@ -1,0 +1,10 @@
+---
+title: "ENC Courses"
+slug: "ENC"
+description: ""
+---
+
+- **ENC-2021**: Introduction to Writing, STATE CORE W
+- **ENC-2022**: Research, Genre, and Thesis, STATE CORE W
+- **ENC-2712**: Creative Writing, STATE CORE W
+- **ENC-3800**: English Teaching and Learning

@@ -1,0 +1,9 @@
+---
+title: "AGR Courses"
+slug: "AGR"
+description: ""
+---
+
+- **AGR-1000**: Welcome to Agriculture!
+- **AGR-1371**: Farming for Non-Majors 1
+- **AGR-1372**: Farming for Non-Majors 2

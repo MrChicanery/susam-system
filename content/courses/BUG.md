@@ -1,0 +1,8 @@
+---
+title: "BUG Courses"
+slug: "BUG"
+description: ""
+---
+
+- **BUG-1000**: Business Welcome!
+- **BUG-1250**: Business for the Average Citizen
