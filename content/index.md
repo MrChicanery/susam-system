@@ -1,6 +1,6 @@
 ---
 title: Home Page
-description: Explore degrees, courses, and academic programs across the Southern USA Metropolitan University System
+description: Explore degrees, courses, and academic programs across the State University System of America.
 ---
 
 <div class="flex flex-col min-h-screen">
