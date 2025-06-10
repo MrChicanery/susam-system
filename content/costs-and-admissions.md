@@ -12,8 +12,12 @@ You must take one of the following standardized tests:
 - **BLT** (the only test offered directly by SUSAM)
 - ACT
 - CLT
-- LBLT
+- LSLT
 - GRE
+- SAT
+- APs
+- A-levels
+- AICEs
 
 ### 2. Achieve a Qualifying Score
 
@@ -66,10 +70,10 @@ Complete an application to the SUSAM System Admission to confirm your readiness 
 
 ### Tuition Costs
 
-Tuition is valued at **500 carrots per credit hour** (equivalent to 5 hours of class plus 10 hours of self-study).
+Tuition is valued at **500 carrots per credit hour**.
 
 - Tuition is waived for students residing in the USA or GLR.
-- Universities may offer scholarships to foreign graduate students.
+- Universities may offer scholarships to foreign graduate students who work for the university.
 
 ---
 

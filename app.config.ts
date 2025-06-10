@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'SUSAM University Catalog',
+      description: 'Welcome to the Catalog.',
     },
     theme: {
       customizable: true,
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'Catalog',
       showTitle: true,
       darkModeToggle: true,
       languageSwitcher: {
@@ -24,8 +24,8 @@ export default defineAppConfig({
       },
       nav: [],
       links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        icon: 'lucide:discord',
+        to: 'https://discord.gg/m5fvtHvrD2',
         target: '_blank',
       }],
     },

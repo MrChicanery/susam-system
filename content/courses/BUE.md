@@ -1,7 +1,0 @@
----
-title: "BUE Courses"
-slug: "BUE"
-description: ""
----
-
-- **BUE-2000**: From The Ground Up - Starting a Company from Scratch!

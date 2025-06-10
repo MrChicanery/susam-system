@@ -1,21 +1,17 @@
 ---
 title: "Schools"
-description: "Browse all schools"
+slug: "index"
+description: "Index of all schools"
 ---
 
-# 🏫 Schools Index
+## Public Universities
+- [Brigham Young University](/schools/byu)
+- [GLR State University](/schools/glr)
+- [Harvard University](/schools/harvard)
+- [Kansas State University](/schools/ksu)
 
-Browse all available schools:
+## University Systems
+- [State University System of New York](/schools/suny)
 
-<ClientOnly>
-  <ContentQuery path="/schools" :exclude="['/schools/index']" v-slot="{ data }">
-    <ul class="list-disc pl-5">
-      <li v-for="item in data" :key="item._path">
-        <NuxtLink :to="item._path" class="text-blue-600 hover:underline">
-          {{ item.title || item._path.replace('/schools/', '') }}
-        </NuxtLink>
-      </li>
-    </ul>
-  </ContentQuery>
-</ClientOnly>
-
+## Public Community Colleges
+- [Cleveland Community College](/schools/cleveland)
