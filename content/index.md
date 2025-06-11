@@ -13,7 +13,7 @@ description: Explore degrees, courses, and academic programs across the State Un
         <nav class="hidden md:flex gap-6">
           <a href="/schools" class="text-sm font-medium hover:text-foreground/80">Schools</a>
           <a href="/courses" class="text-sm font-medium hover:text-foreground/80">Courses</a>
-          <a href="/programs" class="text-sm font-medium hover:text-foreground/80">Programs</a>
+          <a href="/costs-and-admissions" class="text-sm font-medium hover:text-foreground/80">Admissions</a>
         </nav>
       </div>
       <div class="flex items-center gap-4">
@@ -46,7 +46,7 @@ description: Explore degrees, courses, and academic programs across the State Un
       Browse our comprehensive collection of courses across all disciplines.
       ::
 
-      ::card{icon="lucide:graduation-cap" title="Academic Programs" to="/programs"}
-      Discover degrees and specialization tracks tailored to your goals.
+      ::card{icon="lucide:graduation-cap" title="Admissions" to="/admissions"}
+      Learn about getting admitted to the University system.
       ::
     ::
