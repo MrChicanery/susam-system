@@ -19,8 +19,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/susam-logo.svg',
-        dark: '/susam-logo-dark.svg',
+        light: '/logo.webp',
+        dark: '/logo.webp',
       },
       nav: [],
       links: [{
