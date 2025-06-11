@@ -13,7 +13,7 @@ description: Explore degrees, courses, and academic programs across the State Un
         <nav class="hidden md:flex gap-6">
           <a href="/schools" class="text-sm font-medium hover:text-foreground/80">Schools</a>
           <a href="/courses" class="text-sm font-medium hover:text-foreground/80">Courses</a>
-          <a href="/costs-and-admissions" class="text-sm font-medium hover:text-foreground/80">Admissions</a>
+          <a href="/admissions" class="text-sm font-medium hover:text-foreground/80">Admissions</a>
         </nav>
       </div>
       <div class="flex items-center gap-4">
