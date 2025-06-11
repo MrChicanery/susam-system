@@ -2,7 +2,7 @@ export default defineAppConfig({
   shadcnDocs: {
     site: {
       name: 'SUSAM University Catalog',
-      description: 'Welcome to the Catalog.',
+      description: 'Welcome to the SUSAM Catalog.',
     },
     theme: {
       customizable: true,
@@ -19,8 +19,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        light: '/susam-logo.svg',
+        dark: '/susam-logo-dark.svg',
       },
       nav: [],
       links: [{
@@ -38,15 +38,10 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-        target: '_blank',
-      }],
+      credits: 'Copyright © 2024 SUSAM',
     },
     toc: {
-      enable: true,
+      enable: false,
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
